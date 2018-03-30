@@ -1,4 +1,4 @@
-#! /Users/Monika/Projekty/kurs/venv/bin/python
+
 # -*- coding: utf-8 -*-
 
 imię = input("Jak masz na imię? - ")
